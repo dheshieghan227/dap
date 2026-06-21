@@ -48,3 +48,9 @@ An exploratory study investigating monthly rainfall volumes, temperatures, and w
   - Regional & Urban/Rural pivot analysis.
   - Identified months and regions with peak rainfall profiles (e.g., peak levels in the West region during September).
 - **Data Visualization**: Plotted detailed bar charts displaying total rainfall by region, color-coded by Urban/Rural splits using `matplotlib` and `seaborn`.
+
+
+---
+
+## 💭 Course Reflection
+Using Python to perform exploratory data analysis and visual storyboarding here was my first look into analytics. It taught me how to handle missing values, decode messy encodings, and present clear visual arguments to stakeholders.
